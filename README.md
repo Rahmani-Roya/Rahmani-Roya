@@ -1,7 +1,9 @@
-👀 I love learning new things! I studied Computer a long time ago, but life took me in a different direction. Now, I'm starting again programming because I truly enjoy it.
-🌱 Currently sharpening my skills in Python, APIs, and Selenium.
+ I love learning new things! I studied Computer Science and have experience as a Tester and System Analyst at System Group.
+🚀 Now, I’m starting a new journey in programming because I truly enjoy it and want to explore new opportunities.
+🌱 Currently learning Python, APIs, and Selenium.
 💡 Open to collaboration and always eager to grow.
 📫 Reach me at Rahmani.roya.pro@gmail.com
+
 
 <!---
 Rahmani-Roya/Rahmani-Roya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
